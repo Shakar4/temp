@@ -1,3 +1,3 @@
 //att skriva upp
-printf("Hej VS"); 
+printf("Hej cmd"); 
 printf("Hej branch1"); 
