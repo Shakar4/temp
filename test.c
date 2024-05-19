@@ -1,3 +1,3 @@
 //att skriva upp
-printf("Hej cmd"); 
+printf("Hej shahed"); 
 printf("Hej branch1"); 
